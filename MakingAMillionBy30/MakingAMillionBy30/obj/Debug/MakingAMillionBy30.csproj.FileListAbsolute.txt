@@ -1,0 +1,20 @@
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\bin\Debug\MakingAMillionBy30.exe.config
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\bin\Debug\MakingAMillionBy30.exe
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\bin\Debug\MakingAMillionBy30.pdb
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MakingAMillionBy30.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MainWindow.g.cs
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\App.g.cs
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MakingAMillionBy30_MarkupCompile.cache
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MakingAMillionBy30_MarkupCompile.lref
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MainWindow.baml
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MakingAMillionBy30.g.resources
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MakingAMillionBy30.Properties.Resources.resources
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MakingAMillionBy30.csproj.GenerateResource.Cache
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MakingAMillionBy30.exe
+c:\users\mark\documents\visual studio 2015\Projects\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MakingAMillionBy30.pdb
+C:\Users\Mark\Documents\GitHub\Greger2\MakingAMillionBy30\MakingAMillionBy30\bin\Debug\MakingAMillionBy30.exe.config
+C:\Users\Mark\Documents\GitHub\Greger2\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MakingAMillionBy30.exe
+C:\Users\Mark\Documents\GitHub\Greger2\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MakingAMillionBy30.pdb
+C:\Users\Mark\Documents\GitHub\Greger\MakingAMillionBy30\MakingAMillionBy30\bin\Debug\MakingAMillionBy30.exe.config
+C:\Users\Mark\Documents\GitHub\Greger\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MakingAMillionBy30.exe
+C:\Users\Mark\Documents\GitHub\Greger\MakingAMillionBy30\MakingAMillionBy30\obj\Debug\MakingAMillionBy30.pdb
